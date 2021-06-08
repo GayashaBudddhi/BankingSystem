@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AdministratorServicePublisher
+Bundle-SymbolicName: AdministratorServicePublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: administratorservicepublisher.AdministratorServiceActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: AdministratorServicePublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: administratorservicepublisher
